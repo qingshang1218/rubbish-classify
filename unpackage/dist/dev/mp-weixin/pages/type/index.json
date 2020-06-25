@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "分类信息",
+  "usingComponents": {
+    "gan-rubbish": "/pages/type/rubbish_gan/index",
+    "shi-rubbish": "/pages/type/rubbish_shi/index",
+    "you-hai-rubbish": "/pages/type/rubbish_yhlj/index",
+    "ke-hui-shou": "/pages/type/rubbish_khs/index",
+    "uni-segmented-control": "/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control"
+  }
+}
